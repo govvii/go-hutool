@@ -1,4 +1,4 @@
-package list
+package listutil
 
 import (
 	"errors"
